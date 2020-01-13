@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    display: none;
+}
+
+a{
+    display: inline-block;
+    font-size: 30px;
+    width: 19%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+li{
+    display: inline-block;
+    width: 19%;
+    background-color: royalblue;
+    padding: 30px;
+}
