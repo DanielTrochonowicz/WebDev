@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+div{
+    float: left;
+    width: 200px;
+    height: 200px;
+    color: white;
+    font-size: 30px;
+    font-family: arial;
+    border: 20px solid grey;
+}
+
+.react1{
+    background-color: darkkhaki;
+}
+
+.react2{
+    background-color: rosybrown;
+}
