@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+a{
+    width: 260px;
+    box-sizing: border-box;
+    display: inline-block;
+    text-decoration: none;
+    background-color: black;
+    color: orange;
+    font-size: 24px;
+    font-family: arial;
+    text-transform: uppercase;
+    padding: 20px 0;
+    text-align: center;
+    border: 3px;
+    border-color: orange;
+    border-style: solid;
+    margin: 20px 15px 0;
+    transition: 0.3s;
+}
+
+a:hover{
+    color: #fff;
+    background-color: #333;
+    border-color: black;
+}
