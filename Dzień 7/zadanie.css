@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+div {
+    font-size: 30px;
+    font-family: arial;
+    background-color: royalblue;
+    color: white;
+    float: left;
+}
+
+.rect1{
+    padding: 100px;
+    border: 10px solid red;
+    margin-bottom: 100px;
+    margin-right: 20px;
+}
+
+.rect2{
+    margin-top: 50px;
+    padding: 30px;
+    border: 20px solid red;
+    margin-left: 30px;
+}

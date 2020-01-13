@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+
+.wraper{
+    max-width: 1400px;
+    background-color: royalblue;
+    height: 50vh;
+    margin: 0 auto;
+}

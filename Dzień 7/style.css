@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+
+.wrapper{
+    max-width: 1400px;
+    background-color: royalblue;
+    min-height: 50vh;
+    /* height: 10vh;
+    overflow: hidden; */
+    margin: 0 auto;
+}
