@@ -1,0 +1,18 @@
+
+
+.first::before{
+    content: "";
+
+
+}
+.second::after{
+    content: "nazwa";
+    display: block;
+    color: red;
+}
+
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: block;
+}
