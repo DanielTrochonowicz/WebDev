@@ -71,6 +71,12 @@ header h1{
 
 }
 
+/* Main */
+
+main{
+    max-width: 1440px;
+    margin: 5vh auto;
+}
 /* Footer */
 
 footer{
