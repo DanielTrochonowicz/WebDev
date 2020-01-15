@@ -63,3 +63,15 @@ nav{
     background-color: black;
 
 }
+
+
+
+/* Footer */
+
+footer{
+    height: 40px;
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
