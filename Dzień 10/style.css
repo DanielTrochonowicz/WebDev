@@ -66,6 +66,8 @@ nav{
 
 nav ul{
     list-style: none;
+    max-width: 1024px;
+    margin: 0 auto;
 }
 
 nav ul li {
@@ -108,7 +110,8 @@ footer{
 /* Main */
 
 div.blog{
-    margin-top: 40px;
+    max-width: 1280px;
+    margin: 40px auto 0;
 }
 
 main{
