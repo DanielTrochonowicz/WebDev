@@ -150,3 +150,24 @@ section.contact p{
 section.contact ul{
     list-style: none;
 }
+section.contact li{
+    margin: 10px 0;
+    color: rgb(83, 38, 92);
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+section.contact li i{
+    margin-right: 20px;
+}
+section.contact li a{
+    color: rgb(83, 38, 92);
+    text-decoration: none;
+}
+
+section.news{
+    margin-top: 30px;
+    height: 300px;
+    background-color: coral;
+    padding: 15px;
+}
