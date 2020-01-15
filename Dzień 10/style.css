@@ -61,9 +61,29 @@ header div:nth-child(4):hover{
 nav{
     height: 50px;
     background-color: black;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li {
+    float: left;
 
 }
 
+nav ul li a{
+    display: block;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+nav ul li a:hover{
+    background-color: violet;
+}
 
 
 /* Footer */
