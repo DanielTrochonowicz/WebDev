@@ -1,0 +1,25 @@
+div{
+    position: fixed;
+}
+
+div.red{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    z-index: 1;
+    /* top: 500px; */
+}
+
+div.green{
+    width: 120px;
+    height: 130px;
+    background-color: green;
+    z-index: 2;
+    /* right: 200px; */
+}
+div.black{
+    width: 160px;
+    height: 50px;
+    background-color: black;
+    z-index: 3;
+}

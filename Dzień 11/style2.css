@@ -5,6 +5,7 @@ nav{
     /* width: 5%; */
     top: 0;
     left: 0;
-    bottom: 400px;
-    right: 400px;
+    /* bottom: 40%; */
+    height: 50px;
+    right: 0;
 }
