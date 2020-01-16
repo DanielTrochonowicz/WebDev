@@ -1,0 +1,25 @@
+body{
+    /* position: relative; */
+    /* margin-top: 100px; */
+}
+
+section{
+    line-height: 220%;
+    background-color: #ddd;
+    /* position: relative; */
+}
+
+header{
+    position: relative;
+    height: 400px;
+    background-color: #555;
+}
+
+div{
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    background-color: #f00;
+    top: 0;
+    left: 0px;
+}
