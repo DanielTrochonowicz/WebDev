@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    /* height: 100px;
+    width: 100px; */
+    background-color: black;
+    position: fixed;
+    top: 50px;
+    /* bottom: 50px; */
+    /* left: 100px;  */
+    right: 50px;  
+    color: burlywood;
+}
