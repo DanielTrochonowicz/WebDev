@@ -1,0 +1,16 @@
+section{
+    font-size: 20px;
+    line-height: 2;
+}
+
+main{
+    background-color: grey;
+    height: 300px;
+    position: relative;
+}
+
+h1{
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
