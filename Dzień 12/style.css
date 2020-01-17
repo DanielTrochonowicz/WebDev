@@ -16,7 +16,7 @@ body{
     padding: 30px;
     margin-top: 30px;
     background-repeat: no-repeat;
-    background-image: url(ptak_maly.JPG);
+    background-image: url(img/ptak_maly.JPG);
     background-origin: padding-box;
     /* background-clip: content-box; */
     background-clip: border-box;
@@ -32,18 +32,18 @@ body{
     background-size: cover;
     background-position: center; */
     /* background-position: 0 50px; */
-    /* background-image: url(ptak_maly.JPG);
+    /* background-image: url(img/ptak_maly.JPG);
     background-repeat: no-repeat; */
     /* background-repeat: repeat-x; */
     /* background-image: url(https://cdn.pixabay.com/photo/2020/01/03/13/49/grass-4738141_960_720.jpg); */
-    /* background-image: url("1.jpg"); */
-    /* background-image: url(ptak_maly.JPG), url(2.jpg);
+    /* background-image: url("img/1.jpg"); */
+    /* background-image: url(img/ptak_maly.JPG), url(img/2.jpg);
     background-repeat: repeat-x, no-repeat; */
-    /* background-image: url(ptak_maly.JPG);
+    /* background-image: url(img/ptak_maly.JPG);
     background-repeat: no-repeat; */
     /* background-position: 50%, 50%; */
     /* background-position: -30%, 50%; */
-    /* background-image: url(ptak_maly.JPG), url(ptak_maly.jpg);
+    /* background-image: url(img/ptak_maly.JPG), url(img/ptak_maly.jpg);
     background-position: 30%;
     /* background-repeat: no-repeat; */
     /* background-position: 0% 0%, 100% 100%; */
@@ -61,9 +61,10 @@ body{
     /* background-color: rgba(0, 0, 0, 0.5);
     margin-top: 30px;
     color: white; */
-    /* opacity: 0.2; */
+    /* opacity: 0.2; 
+}*/
 
-} */
+
 
 button{
     background-color: transparent;
