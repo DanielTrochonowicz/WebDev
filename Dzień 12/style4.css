@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.game{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(img/krzyzyk.png), url(img/kolko.png), url(img/krzyzyk.png), url(img/plansza.png);
+    background-repeat: no-repeat;
+    background-size: 150px, 150px, 150px, 600px;
+    background-position: 49% 28%, 49% 67%, 49% center, center center;
+}
