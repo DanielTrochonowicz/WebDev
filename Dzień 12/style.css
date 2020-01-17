@@ -12,10 +12,17 @@
     border: 4px solid red;
     padding: 30px;
     background-color: #777;
-    /* background-image: url(1.jpg); */
+    /* background-image: url(ptak_maly.JPG);
+    background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
     /* background-image: url(https://cdn.pixabay.com/photo/2020/01/03/13/49/grass-4738141_960_720.jpg); */
     /* background-image: url("1.jpg"); */
-    /* background-image: url(1.jpg), url(2.jpg); */
+    /* background-image: url(ptak_maly.JPG), url(2.jpg);
+    background-repeat: repeat-x, no-repeat; */
+    background-image: url(ptak_maly.JPG);
+    background-repeat: no-repeat;
+    /* background-position: 50%, 50%; */
+    background-position: -30%, 50%;
 
 }
 
