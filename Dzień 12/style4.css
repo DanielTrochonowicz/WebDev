@@ -10,5 +10,5 @@
     background-image: url(img/krzyzyk.png), url(img/kolko.png), url(img/krzyzyk.png), url(img/plansza.png);
     background-repeat: no-repeat;
     background-size: 150px, 150px, 150px, 600px;
-    background-position: 49% 28%, 49% 67%, 49% center, center center;
+    background-position: center 28%, center 72%, center center, center center;
 }
