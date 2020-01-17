@@ -5,17 +5,32 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    height: 300vh;
+}
+
 .bg{
     height: 50vh;
     width: 50vh;
-    background-color: transparent;
-    border: 4px solid red;
+    border: 4px solid transparent;
     padding: 30px;
-    background-color: #777;
+    margin-top: 30px;
     background-repeat: no-repeat;
-    background-image: url(1.JPG);
-    background-size: contain;
-    background-position: center;
+    background-image: url(ptak_maly.JPG);
+    background-origin: padding-box;
+    /* background-clip: content-box; */
+    background-clip: border-box;
+    background-color: salmon;
+
+
+
+    /* background-color: transparent; */
+    /* background-color: #777;
+    background-image: url(3.JPG); */
+    /* background-attachment: scroll; */
+    /* background-attachment: fixed;
+    background-size: cover;
+    background-position: center; */
     /* background-position: 0 50px; */
     /* background-image: url(ptak_maly.JPG);
     background-repeat: no-repeat; */
