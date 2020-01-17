@@ -10,7 +10,7 @@ body{
 
 header{
     height: 80vh;
-    background-image: url(img/city.jpg);
+    background-image: url("img/city.jpg");
     background-repeat: no-repeat;
     background-position: center bottom;
     background-attachment: fixed;
@@ -41,7 +41,7 @@ section{
     width: 80%;
     line-height: 190%;
     font-size: 18px;
-    font-family: Verdana,;
+    font-family: Verdana;
     
 }
 
