@@ -9,6 +9,42 @@ p{
     line-height: 100vh;
     color: red;
     text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 0 5%;
+}
+
+@media (min-width: 360px){
+    p{
+        font-size: 20px;
+        color: saddlebrown;  
+    }
 }
 
 
+@media (min-width: 400px){
+    p{
+        font-size: 26px;
+        color: rgb(32, 32, 4);  
+    }
+}
+
+@media (min-width: 600px){
+    p{
+        font-size: 26px;
+        color: yellow;  
+    }
+}
+
+@media (min-width: 1024px){
+    p{
+        font-size: 35px;
+        color: green;  
+    }
+}
+@media (min-width: 1440px){
+    p{
+        font-size: 40px;
+        color: rgb(94, 22, 58);  
+    }
+}
