@@ -8,10 +8,31 @@ body{
     background-color: rgb(255, 0, 0);
 
 }
+div{
+    font-size: 60px;
+    color: white;
+}
+
+div.s1{
+    display: block;
+}
+div.s2{
+    display: none;
+}
+div.s3{
+    display: none;
+}
 
 @media (max-width: 1600px){
     body{
         background-color: yellow;
+    }
+    div.s1{
+        display: none;
+    }
+    div.s2{
+        display: block;
+        color: black;
     }
 }
 
@@ -19,10 +40,21 @@ body{
     body{
         background-color: green;
     }
+    div.s2{
+        color: white;
+    }
 }
 @media(max-width: 768px){
     body{
         background-color: orange;
+    }
+    
+    div.s2{
+        display: none;
+    }
+    div.s3{
+        display: block;
+        color: black;
     }
 }
 
