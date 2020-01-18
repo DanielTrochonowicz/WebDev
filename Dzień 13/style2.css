@@ -48,3 +48,24 @@ p{
         color: rgb(94, 22, 58);  
     }
 }
+
+@media  (orientation: portrait){
+    body{
+        background-color: aqua;
+    }
+}
+
+
+@media  (orientation: landscape){
+    body{
+        background-color: darkorchid;
+    }
+}
+
+@media  (orientation: landscape) and (min-width: 640px){
+    body{
+        background-color: darkorchid;
+        font-size: 30px;
+        color: darkturquoise;
+    }
+}
