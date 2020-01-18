@@ -5,6 +5,18 @@
 }
 
 body{
-    background-color: rgb(255, 0, 0;
-    
+    background-color: rgb(255, 0, 0);
+
+}
+
+@media (max-width: 1600px){
+    body{
+        background-color: yellow;
+    }
+}
+
+@media(max-width: 1024px){
+    body{
+        background-color: green;
+    }
 }
