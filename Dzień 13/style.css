@@ -20,3 +20,14 @@ body{
         background-color: green;
     }
 }
+@media(max-width: 768px){
+    body{
+        background-color: orange;
+    }
+}
+
+@media(max-width: 360px){
+    body{
+        background-color: rgb(43, 38, 40);
+    }
+}
