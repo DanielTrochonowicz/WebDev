@@ -190,7 +190,6 @@ header button{
 }
 
 @media(orientation: landscape) and (min-width: 1600px){
-        
     header p{
         font-size: 120px;
     }
@@ -220,7 +219,6 @@ header button{
         color: #111;
     }
 }
-
 
 section{
     min-height: 100vh;
