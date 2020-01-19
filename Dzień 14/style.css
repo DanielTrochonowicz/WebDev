@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 
+/* Header */
 header{
     position: relative;
     height: 100vh;
@@ -229,3 +230,14 @@ header button{
 section{
     min-height: 100vh;
 }
+
+/* Sekcja */
+
+.features{
+    margin-top: 50px;
+}
+
+.feature h1{
+    font-family: "Saira condensed", sans-serif ;
+}
+
