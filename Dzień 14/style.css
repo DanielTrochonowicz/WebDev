@@ -189,6 +189,37 @@ header button{
     } 
 }
 
+@media(orientation: landscape) and (min-width: 1600px){
+        
+    header p{
+        font-size: 120px;
+    }
+    header h1{
+        margin-top: 40px;
+        font-size: 60px;
+    }
+    header h2{
+        font-size: 60px;
+    }
+    header button{
+        line-height: 90px;
+    }
+    header img {
+        right: -12%;
+        height: 95%;
+    } 
+}
+
+@media(min-width: 1024px){
+    header button{
+        cursor: pointer;
+        transform: .3s;
+    }
+    header button:hover{
+        background-color: #fff;
+        color: #111;
+    }
+}
 
 
 section{
