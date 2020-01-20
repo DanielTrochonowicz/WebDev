@@ -431,11 +431,11 @@ sans-serif;
   
   @media (min-width:768px) {
   
-    .portfolio h1 {
-      font-size: 40px;
-    }
+  .portfolio h1 {
+    font-size: 40px;
+  }
   
-    .portfolio .about h2 {
+  .portfolio .about h2 {
       font-size: 28px;
       text-indent: 40px;
     }
