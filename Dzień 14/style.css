@@ -436,13 +436,13 @@ sans-serif;
   }
   
   .portfolio .about h2 {
-      font-size: 28px;
-      text-indent: 40px;
-    }
+    font-size: 28px;
+    text-indent: 40px;
+  }
   
-    .portfolio .about p {
-      font-size: 18px;
-      padding-left: 40px;
+  .portfolio .about p {
+    font-size: 18px;
+    padding-left: 40px;
     }
   
     .portfolio .project {
